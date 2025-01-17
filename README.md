@@ -22,6 +22,9 @@
 
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](https://trello.com/)
+[![Todoist](https://img.shields.io/badge/Todoist-E44332?logo=todoist&logoColor=white)](https://todoist.com/)
 [![Google](https://img.shields.io/badge/Google_WorkSpace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
 [![Cmder](https://img.shields.io/badge/Cmder-000?logo=gnome-terminal&logoColor=white)](https://cmder.app/)
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
@@ -37,9 +40,6 @@
 [![Shotcut](https://img.shields.io/badge/Shotcut-115c77?logo=video&logoColor=white&labelColor=102c47)](https://www.shotcut.org/)
 
 #### Misc
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](https://trello.com/)
-[![Todoist](https://img.shields.io/badge/Todoist-E44332?logo=todoist&logoColor=white)](https://todoist.com/)
 [![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
 [![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
 [![p5.js](https://img.shields.io/badge/P5.js-ed225d?logo=javascript&logoColor=white)](https://p5js.org/)
