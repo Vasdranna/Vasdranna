@@ -15,13 +15,6 @@
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-2d3441?logo=alpinedotjs&logoColor=fff)](https://alpinejs.dev/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
 
-#### Misc
-[![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
-[![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
-[![p5.js](https://img.shields.io/badge/P5.js-ed225d?logo=javascript&logoColor=white)](https://p5js.org/)
-[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-029cff?logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
-[![TIC-80](https://img.shields.io/badge/TIC--80-333c57?logo=tic-80&logoColor=white&labelColor=41a6f6)](https://tic80.com/)
-
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -43,7 +36,12 @@
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
 [![Shotcut](https://img.shields.io/badge/Shotcut-115c77?logo=video&logoColor=white&labelColor=102c47)](https://www.shotcut.org/)
 
-#### Organization
+#### Misc
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](https://trello.com/)
 [![Todoist](https://img.shields.io/badge/Todoist-E44332?logo=todoist&logoColor=white)](https://todoist.com/)
+[![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
+[![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
+[![p5.js](https://img.shields.io/badge/P5.js-ed225d?logo=javascript&logoColor=white)](https://p5js.org/)
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-029cff?logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
+[![TIC-80](https://img.shields.io/badge/TIC--80-333c57?logo=tic-80&logoColor=white&labelColor=1a1c2c)](https://tic80.com/)
