@@ -14,10 +14,13 @@
 [![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](https://www.11ty.dev/) 
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-2d3441?logo=alpinedotjs&logoColor=fff)](https://alpinejs.dev/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
+
+#### Misc
 [![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
 [![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
 [![p5.js](https://img.shields.io/badge/P5.js-ed225d?logo=javascript&logoColor=white)](https://p5js.org/)
 [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-029cff?logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
+[![TIC-80](https://img.shields.io/badge/TIC--80-333c57?logo=tic-80&logoColor=white&labelColor=41a6f6)](https://tic80.com/)
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
