@@ -8,11 +8,6 @@
 [![Batch](https://img.shields.io/badge/Batch-4D4D4D?logo=gnu-bash&logoColor=white)](#)
 [![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white)](#)
 
-#### Systems
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
-
 #### Frameworks
 [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#)
 [![Lume](https://img.shields.io/badge/Lume-e3655c?logo=deno&logoColor=white)](#)
@@ -29,7 +24,6 @@
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Cmder](https://img.shields.io/badge/Cmder-000?logo=gnome-terminal&logoColor=white)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
