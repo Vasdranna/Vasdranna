@@ -14,6 +14,10 @@
 [![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](https://www.11ty.dev/) 
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-2d3441?logo=alpinedotjs&logoColor=fff)](https://alpinejs.dev/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
+[![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
+[![p5.js](https://img.shields.io/badge/P5.js-ed225d?logo=javascript&logoColor=white)](https://p5js.org/)
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-029cff?logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
@@ -22,6 +26,7 @@
 
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
+[![Google](https://img.shields.io/badge/Google_WorkSpace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
 [![Cmder](https://img.shields.io/badge/Cmder-000?logo=gnome-terminal&logoColor=white)](https://cmder.app/)
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vite.dev/)
@@ -36,5 +41,6 @@
 [![Shotcut](https://img.shields.io/badge/Shotcut-115c77?logo=video&logoColor=white&labelColor=102c47)](https://www.shotcut.org/)
 
 #### Organization
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](https://trello.com/)
 [![Todoist](https://img.shields.io/badge/Todoist-E44332?logo=todoist&logoColor=white)](https://todoist.com/)
