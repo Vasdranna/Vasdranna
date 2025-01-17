@@ -6,6 +6,14 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+
+#### Systems
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+[![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white)](#)
 
 
 #### Frameworks
@@ -18,8 +26,14 @@
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 
-
+# Deployment
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
+
+#### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FACC15?logoColor=white&labelColor=181818)](#)
 
 #### Software
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
@@ -30,11 +44,8 @@
 [![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?logo=affinity-photo&logoColor=white)](#)
 [![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?logo=affinity-designer&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-
-#### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![DuckDB](https://img.shields.io/badge/DuckDB-FACC15?logoColor=white&labelColor=181818)](#)
+[![Shotcut](https://img.shields.io/badge/Shotcut-000000?style=for-the-badge&logo=video&logoColor=white)](#)
+[![Aseprite](https://img.shields.io/badge/Aseprite-Pixel_Art-7D929E?style=for-the-badge&logo=pixel-art&logoColor=white)](#)
 
 #### Organization
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
