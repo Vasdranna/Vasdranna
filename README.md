@@ -18,14 +18,14 @@
 
 [![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
 [![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
-[![p5.js](https://img.shields.io/badge/P5.js-ed225d?logo=javascript&logoColor=white)](https://p5js.org/)
+[![p5.js](https://img.shields.io/badge/P5.js-ED225D?logo=javascript&logoColor=white)](https://p5js.org/)
 [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-029cff?logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
 [![TIC-80](https://img.shields.io/badge/TIC--80-333c57?logo=tic-80&logoColor=white&labelColor=1a1c2c)](https://tic80.com/)
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![DuckDB](https://img.shields.io/badge/DuckDB-FACC15?logoColor=white&labelColor=181818)](https://duckdb.org/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logoColor=white&labelColor=181818&logo=duckdb)](https://duckdb.org/)
 
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
