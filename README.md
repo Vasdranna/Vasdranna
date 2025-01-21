@@ -14,6 +14,7 @@
 [![Lume](https://img.shields.io/badge/Lume-e3655c?logo=deno&logoColor=white)](https://lume.land)
 [![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](https://www.11ty.dev/) 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-2d3441?logo=alpinedotjs&logoColor=fff)](https://alpinejs.dev/)
 
 [![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
 [![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
