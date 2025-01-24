@@ -5,7 +5,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![Batch](https://img.shields.io/badge/Batch-4D4D4D?logo=gnu-bash&logoColor=white)](https://ss64.com/nt/)
-[![AHK](https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white)](https://www.autohotkey.com/)
+[![AHK](https://img.shields.io/badge/AHK-334455?logo=autohotkey&logoColor=white)](https://www.autohotkey.com/)
 
 #### Frameworks
 [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](https://deno.com/)
