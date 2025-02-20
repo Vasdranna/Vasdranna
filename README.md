@@ -8,14 +8,10 @@
 [![AHK](https://img.shields.io/badge/AHK-334455?logo=autohotkey&logoColor=white)](https://www.autohotkey.com/)
 
 #### Frameworks
+[![Astro](https://img.shields.io/badge/Astro-000?logo=astro&logoColor=fff)](https://astro.build/)
 [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](https://deno.com/)
-[![Lume](https://img.shields.io/badge/Lume-e3655c?logo=deno&logoColor=white)](https://lume.land)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
-
-[![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
-[![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
-[![p5.js](https://img.shields.io/badge/P5.js-ED225D?logo=javascript&logoColor=white)](https://p5js.org/)
-[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-029cff?logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
+[![AlpineJS](https://img.shields.io/badge/AlpineJS-2d3441?logo=alpine.js&logoColor=fff)](https://alpinejs.dev/)
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
@@ -35,3 +31,10 @@
 [![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?logo=affinity-designer&logoColor=white)](https://affinity.serif.com/en-gb/designer/)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
 [![Shotcut](https://img.shields.io/badge/Shotcut-115c77?logo=video&logoColor=white&labelColor=102c47)](https://www.shotcut.org/)
+
+### Learning
+[![CS](https://img.shields.io/badge/Dotnet-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/)
+[![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
+[![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
+[![p5.js](https://img.shields.io/badge/P5.js-ED225D?logo=javascript&logoColor=white)](https://p5js.org/)
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-029cff?logo=python&logoColor=white)](https://customtkinter.tomschimansky.com/)
