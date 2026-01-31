@@ -10,7 +10,6 @@
 
 #### Frameworks
 [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](https://deno.com/)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Raylib](https://img.shields.io/badge/Raylib-fff?logo=raylib&logoColor=black)](https://www.raylib.com/)
 [![Kivy](https://img.shields.io/badge/Kivy-202326?logo=python&logoColor=white)](https://kivy.org/)
 [![p5.js](https://img.shields.io/badge/P5.js-ED225D?logo=javascript&logoColor=white)](https://p5js.org/)
